@@ -10,12 +10,13 @@ classifiers = [
   "Programming Language :: Python :: 3.13",
 ]
 dependencies = [ # fmt: off
-  "loguru",      # Better than print() - practice production logging with levels
+  "loguru", # Better than print() - practice production logging with levels
   #"matplotlib",  # Industry standard plotting
   #"pandas",      # THE data manipulation tool in analytics
   #"seaborn",     # Statistical charts built on matplotlib
   #"ipython",     # Enhanced Python shell (needed for notebooks)
   #"ipykernel",   # Jupyter kernel for notebooks
+  "pre-commit[dev]>=4.3.0",
 ]  # fmt: on
 description = "Guide to professional Python using uv and a src layout"
 name = "analytics-project" # PACKAGE name (matches src folder except with dashes)
