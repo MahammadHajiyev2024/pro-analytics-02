@@ -3,7 +3,7 @@ build-backend = "setuptools.build_meta"
 requires = ["setuptools>=80", "wheel"]
 
 [project]
-authors = [{name = "Denise Case"}]
+authors = [{name = "Mahammad Hajiyev"}]
 classifiers = [
   "Programming Language :: Python :: 3 :: Only",
   "Programming Language :: Python :: 3.12",
@@ -26,10 +26,10 @@ requires-python = ">=3.12"
 version = "0.0.1"
 
 [project.urls]
-"Bug Tracker" = "https://github.com/denisecase/pro-analytics-02/issues"
-Documentation = "https://denisecase.github.io/pro-analytics-02/"
-Homepage = "https://github.com/denisecase/pro-analytics-02"
-Repository = "https://github.com/denisecase/pro-analytics-02"
+"Bug Tracker" = "https://github.com/MahammadHajiyev2024/smart-store-mahammadhajiyev/issues"
+Documentation = "https://mahammadhajiyev2024.github.io/smart-store-mahammadhajiyev/"
+Homepage = "https://github.com/MahammadHajiyev2024/smart-store-mahammadhajiyev"
+Repository = "https://github.com/MahammadHajiyev2024/smart-store-mahammadhajiyev"
 
 [project.optional-dependencies]
 dev = [

@@ -2,10 +2,10 @@
 # Configuration file for MkDocs
 
 site_name: Pro Analytics 02
-site_url: https://denisecase.github.io/pro-analytics-02/
-repo_url: https://github.com/denisecase/pro-analytics-02
+site_url: https://mahammadhajiyev2024.github.io/smart-store-mahammadhajiyev/
+repo_url: https://github.com/MahammadHajiyev2024/smart-store-mahammadhajiyev
 site_description: Guide to Professional Python projects using industry best practices
-site_author: Denise Case
+site_author: Mahammad Hajiyev
 docs_dir: docs
 site_dir: site
 
