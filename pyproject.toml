@@ -16,6 +16,7 @@ dependencies = [ # fmt: off
   #"seaborn",     # Statistical charts built on matplotlib
   #"ipython",     # Enhanced Python shell (needed for notebooks)
   #"ipykernel",   # Jupyter kernel for notebooks
+  "pandas>=2.3.3",
   "pre-commit[dev]>=4.3.0",
 ]  # fmt: on
 description = "Guide to professional Python using uv and a src layout"

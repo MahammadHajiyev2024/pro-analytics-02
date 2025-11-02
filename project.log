@@ -32,3 +32,21 @@
 2025-10-26 16:47:ERROR   AT utils_logger.py:118: This is an example error message.
 2025-10-26 16:47:INFO    AT utils_logger.py:125: View the log output at C:\Users\mhajiyev\projects\pro-analytics-02\project.log
 2025-10-26 16:47:INFO    AT test_utils_logger.py:65: Smoke test message
+2025-11-02 13:19:INFO    AT utils_logger.py:105: Logging to file: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\project.log
+2025-11-02 13:19:INFO    AT data_prep.py:52: Starting data preparation...
+2025-11-02 13:19:INFO    AT data_prep.py:32: Reading raw data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\data\raw\customers_data.csv.
+2025-11-02 13:19:INFO    AT data_prep.py:35: customers_data.csv: loaded DataFrame with shape 201 rows x 4 cols
+2025-11-02 13:19:INFO    AT data_prep.py:32: Reading raw data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\data\raw\products_data.csv.
+2025-11-02 13:19:INFO    AT data_prep.py:35: products_data.csv: loaded DataFrame with shape 100 rows x 4 cols
+2025-11-02 13:19:INFO    AT data_prep.py:32: Reading raw data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\data\raw\sales_data.csv.
+2025-11-02 13:19:INFO    AT data_prep.py:35: sales_data.csv: loaded DataFrame with shape 2001 rows x 7 cols
+2025-11-02 13:19:INFO    AT data_prep.py:64: Data preparation complete.
+2025-11-02 13:19:INFO    AT utils_logger.py:105: Logging to file: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\project.log
+2025-11-02 13:19:INFO    AT data_prep.py:52: Starting data preparation...
+2025-11-02 13:19:INFO    AT data_prep.py:32: Reading raw data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\data\raw\customers_data.csv.
+2025-11-02 13:19:INFO    AT data_prep.py:35: customers_data.csv: loaded DataFrame with shape 201 rows x 4 cols
+2025-11-02 13:19:INFO    AT data_prep.py:32: Reading raw data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\data\raw\products_data.csv.
+2025-11-02 13:19:INFO    AT data_prep.py:35: products_data.csv: loaded DataFrame with shape 100 rows x 4 cols
+2025-11-02 13:19:INFO    AT data_prep.py:32: Reading raw data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\data\raw\sales_data.csv.
+2025-11-02 13:19:INFO    AT data_prep.py:35: sales_data.csv: loaded DataFrame with shape 2001 rows x 7 cols
+2025-11-02 13:19:INFO    AT data_prep.py:64: Data preparation complete.
