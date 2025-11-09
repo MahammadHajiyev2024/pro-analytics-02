@@ -1,0 +1,1125 @@
+2025-11-05 21:03:33.674 | INFO     | __main__:main:178 - ==================================
+2025-11-05 21:03:33.674 | INFO     | __main__:main:179 - STARTING prepare_customers_data.py
+2025-11-05 21:03:33.674 | INFO     | __main__:main:180 - ==================================
+2025-11-05 21:03:33.675 | INFO     | __main__:main:182 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-05 21:03:33.675 | INFO     | __main__:main:183 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-05 21:03:33.675 | INFO     | __main__:main:184 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-05 21:03:33.675 | INFO     | __main__:main:185 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-05 21:03:33.675 | INFO     | __main__:read_raw_data:62 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-05 21:03:33.678 | ERROR    | __main__:read_raw_data:65 - File not found: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv
+2025-11-05 21:03:33.681 | INFO     | __main__:main:197 - Initial dataframe columns: 
+2025-11-05 21:03:33.681 | INFO     | __main__:main:198 - Initial dataframe shape: (0, 0)
+2025-11-05 21:13:45.244 | INFO     | __main__:main:178 - ==================================
+2025-11-05 21:13:45.244 | INFO     | __main__:main:179 - STARTING prepare_customers_data.py
+2025-11-05 21:13:45.244 | INFO     | __main__:main:180 - ==================================
+2025-11-05 21:13:45.244 | INFO     | __main__:main:182 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-05 21:13:45.244 | INFO     | __main__:main:183 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-05 21:13:45.244 | INFO     | __main__:main:184 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-05 21:13:45.244 | INFO     | __main__:main:185 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-05 21:13:45.244 | INFO     | __main__:read_raw_data:62 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-05 21:13:45.244 | ERROR    | __main__:read_raw_data:65 - File not found: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv
+2025-11-05 21:13:45.244 | INFO     | __main__:main:197 - Initial dataframe columns: 
+2025-11-05 21:13:45.244 | INFO     | __main__:main:198 - Initial dataframe shape: (0, 0)
+2025-11-06 07:00:51.756 | INFO     | __main__:main:178 - ==================================
+2025-11-06 07:00:51.756 | INFO     | __main__:main:179 - STARTING prepare_customers_data.py
+2025-11-06 07:00:51.756 | INFO     | __main__:main:180 - ==================================
+2025-11-06 07:00:51.756 | INFO     | __main__:main:182 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-06 07:00:51.756 | INFO     | __main__:main:183 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-06 07:00:51.756 | INFO     | __main__:main:184 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-06 07:00:51.756 | INFO     | __main__:main:185 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-06 07:00:51.756 | INFO     | __main__:read_raw_data:62 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-06 07:00:51.756 | ERROR    | __main__:read_raw_data:65 - File not found: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv
+2025-11-06 07:00:51.756 | INFO     | __main__:main:197 - Initial dataframe columns: 
+2025-11-06 07:00:51.756 | INFO     | __main__:main:198 - Initial dataframe shape: (0, 0)
+2025-11-09 11:15:41.125 | INFO     | __main__:main:178 - ==================================
+2025-11-09 11:15:41.126 | INFO     | __main__:main:179 - STARTING prepare_customers_data.py
+2025-11-09 11:15:41.126 | INFO     | __main__:main:180 - ==================================
+2025-11-09 11:15:41.126 | INFO     | __main__:main:182 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:15:41.126 | INFO     | __main__:main:183 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:15:41.127 | INFO     | __main__:main:184 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:15:41.127 | INFO     | __main__:main:185 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:15:41.127 | INFO     | __main__:read_raw_data:62 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-09 11:15:41.128 | ERROR    | __main__:read_raw_data:65 - File not found: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv
+2025-11-09 11:15:41.132 | INFO     | __main__:main:197 - Initial dataframe columns: 
+2025-11-09 11:15:41.132 | INFO     | __main__:main:198 - Initial dataframe shape: (0, 0)
+2025-11-09 11:17:21.981 | INFO     | __main__:main:178 - ==================================
+2025-11-09 11:17:21.981 | INFO     | __main__:main:179 - STARTING prepare_customers_data.py
+2025-11-09 11:17:21.981 | INFO     | __main__:main:180 - ==================================
+2025-11-09 11:17:21.981 | INFO     | __main__:main:182 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:17:21.982 | INFO     | __main__:main:183 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:17:21.982 | INFO     | __main__:main:184 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:17:21.982 | INFO     | __main__:main:185 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:17:21.982 | INFO     | __main__:read_raw_data:62 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-09 11:17:21.997 | INFO     | __main__:main:197 - Initial dataframe columns: CustomerID, Name, Region, JoinDate, NumberOfPurshases, ShoppingFrequency
+2025-11-09 11:17:21.997 | INFO     | __main__:main:198 - Initial dataframe shape: (201, 6)
+2025-11-09 11:17:21.999 | INFO     | __main__:remove_duplicates:100 - FUNCTION START: remove_duplicates with dataframe shape=(201, 6)
+2025-11-09 11:17:22.012 | INFO     | __main__:remove_duplicates:111 - Original dataframe shape: (201, 6)
+2025-11-09 11:17:22.012 | INFO     | __main__:remove_duplicates:112 - Deduped  dataframe shape: (201, 6)
+2025-11-09 11:17:22.013 | INFO     | __main__:handle_missing_values:127 - FUNCTION START: handle_missing_values with dataframe shape=(201, 6)
+2025-11-09 11:17:22.013 | INFO     | __main__:handle_missing_values:131 - Total missing values before handling: 0
+2025-11-09 11:17:22.014 | INFO     | __main__:handle_missing_values:140 - Total missing values after handling: 0
+2025-11-09 11:17:22.014 | INFO     | __main__:handle_missing_values:141 - 201 records remaining after handling missing values.
+2025-11-09 11:17:22.014 | INFO     | __main__:remove_outliers:156 - FUNCTION START: remove_outliers with dataframe shape=(201, 6)
+2025-11-09 11:17:22.015 | INFO     | __main__:remove_outliers:164 - Removed 0 outlier rows
+2025-11-09 11:17:22.015 | INFO     | __main__:remove_outliers:165 - 201 records remaining after removing outliers.
+2025-11-09 11:17:22.015 | INFO     | __main__:save_prepared_data:80 - FUNCTION START: save_prepared_data with file_name=customers_prepared.csv, dataframe shape=(201, 6)
+2025-11-09 11:17:22.026 | INFO     | __main__:save_prepared_data:85 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\customers_prepared.csv
+2025-11-09 11:17:22.027 | INFO     | __main__:main:223 - ==================================
+2025-11-09 11:17:22.028 | INFO     | __main__:main:224 - Original shape: (201, 6)
+2025-11-09 11:17:22.028 | INFO     | __main__:main:225 - Cleaned shape:  (201, 6)
+2025-11-09 11:17:22.028 | INFO     | __main__:main:226 - ==================================
+2025-11-09 11:17:22.028 | INFO     | __main__:main:227 - FINISHED prepare_customers_data.py
+2025-11-09 11:17:22.028 | INFO     | __main__:main:228 - ==================================
+2025-11-09 11:18:22.000 | INFO     | __main__:main:178 - ==================================
+2025-11-09 11:18:22.000 | INFO     | __main__:main:179 - STARTING prepare_customers_data.py
+2025-11-09 11:18:22.000 | INFO     | __main__:main:180 - ==================================
+2025-11-09 11:18:22.001 | INFO     | __main__:main:182 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:18:22.001 | INFO     | __main__:main:183 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:18:22.002 | INFO     | __main__:main:184 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:18:22.002 | INFO     | __main__:main:185 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:18:22.003 | INFO     | __main__:read_raw_data:62 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-09 11:18:22.007 | INFO     | __main__:main:197 - Initial dataframe columns: CustomerID, Name, Region, JoinDate, NumberOfPurshases, ShoppingFrequency
+2025-11-09 11:18:22.008 | INFO     | __main__:main:198 - Initial dataframe shape: (201, 6)
+2025-11-09 11:18:22.008 | INFO     | __main__:remove_duplicates:100 - FUNCTION START: remove_duplicates with dataframe shape=(201, 6)
+2025-11-09 11:18:22.009 | INFO     | __main__:remove_duplicates:111 - Original dataframe shape: (201, 6)
+2025-11-09 11:18:22.009 | INFO     | __main__:remove_duplicates:112 - Deduped  dataframe shape: (201, 6)
+2025-11-09 11:18:22.010 | INFO     | __main__:handle_missing_values:127 - FUNCTION START: handle_missing_values with dataframe shape=(201, 6)
+2025-11-09 11:18:22.010 | INFO     | __main__:handle_missing_values:131 - Total missing values before handling: 0
+2025-11-09 11:18:22.011 | INFO     | __main__:handle_missing_values:140 - Total missing values after handling: 0
+2025-11-09 11:18:22.011 | INFO     | __main__:handle_missing_values:141 - 201 records remaining after handling missing values.
+2025-11-09 11:18:22.011 | INFO     | __main__:remove_outliers:156 - FUNCTION START: remove_outliers with dataframe shape=(201, 6)
+2025-11-09 11:18:22.011 | INFO     | __main__:remove_outliers:164 - Removed 0 outlier rows
+2025-11-09 11:18:22.011 | INFO     | __main__:remove_outliers:165 - 201 records remaining after removing outliers.
+2025-11-09 11:18:22.011 | INFO     | __main__:save_prepared_data:80 - FUNCTION START: save_prepared_data with file_name=customers_prepared.csv, dataframe shape=(201, 6)
+2025-11-09 11:18:22.014 | INFO     | __main__:save_prepared_data:85 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\customers_prepared.csv
+2025-11-09 11:18:22.015 | INFO     | __main__:main:223 - ==================================
+2025-11-09 11:18:22.015 | INFO     | __main__:main:224 - Original shape: (201, 6)
+2025-11-09 11:18:22.015 | INFO     | __main__:main:225 - Cleaned shape:  (201, 6)
+2025-11-09 11:18:22.015 | INFO     | __main__:main:226 - ==================================
+2025-11-09 11:18:22.015 | INFO     | __main__:main:227 - FINISHED prepare_customers_data.py
+2025-11-09 11:18:22.015 | INFO     | __main__:main:228 - ==================================
+2025-11-09 11:19:49.219 | INFO     | __main__:main:93 - ==================================
+2025-11-09 11:19:49.220 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 11:19:49.220 | INFO     | __main__:main:95 - ==================================
+2025-11-09 11:19:49.220 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:19:49.221 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:19:49.221 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:19:49.221 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:19:49.221 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 11:19:49.222 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 11:19:49.227 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 11:19:49.228 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 11:19:49.228 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 11:19:49.228 | INFO     | __main__:main:134 - ==================================
+2025-11-09 11:19:49.229 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 11:19:49.229 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 11:19:49.230 | INFO     | __main__:main:137 - ==================================
+2025-11-09 11:19:49.230 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 11:19:49.231 | INFO     | __main__:main:139 - ==================================
+2025-11-09 11:20:59.951 | INFO     | __main__:main:177 - ==================================
+2025-11-09 11:20:59.952 | INFO     | __main__:main:178 - STARTING prepare_customers_data.py
+2025-11-09 11:20:59.952 | INFO     | __main__:main:179 - ==================================
+2025-11-09 11:20:59.952 | INFO     | __main__:main:181 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:20:59.952 | INFO     | __main__:main:182 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:20:59.953 | INFO     | __main__:main:183 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:20:59.953 | INFO     | __main__:main:184 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:20:59.953 | INFO     | __main__:read_raw_data:61 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-09 11:20:59.958 | INFO     | __main__:main:196 - Initial dataframe columns: CustomerID, Name, Region, JoinDate, NumberOfPurshases, ShoppingFrequency
+2025-11-09 11:20:59.959 | INFO     | __main__:main:197 - Initial dataframe shape: (201, 6)
+2025-11-09 11:20:59.960 | INFO     | __main__:remove_duplicates:99 - FUNCTION START: remove_duplicates with dataframe shape=(201, 6)
+2025-11-09 11:20:59.961 | INFO     | __main__:remove_duplicates:110 - Original dataframe shape: (201, 6)
+2025-11-09 11:20:59.961 | INFO     | __main__:remove_duplicates:111 - Deduped  dataframe shape: (201, 6)
+2025-11-09 11:20:59.962 | INFO     | __main__:handle_missing_values:126 - FUNCTION START: handle_missing_values with dataframe shape=(201, 6)
+2025-11-09 11:20:59.962 | INFO     | __main__:handle_missing_values:130 - Total missing values before handling: 0
+2025-11-09 11:20:59.963 | INFO     | __main__:handle_missing_values:139 - Total missing values after handling: 0
+2025-11-09 11:20:59.963 | INFO     | __main__:handle_missing_values:140 - 201 records remaining after handling missing values.
+2025-11-09 11:20:59.963 | INFO     | __main__:remove_outliers:155 - FUNCTION START: remove_outliers with dataframe shape=(201, 6)
+2025-11-09 11:20:59.963 | INFO     | __main__:remove_outliers:163 - Removed 0 outlier rows
+2025-11-09 11:20:59.963 | INFO     | __main__:remove_outliers:164 - 201 records remaining after removing outliers.
+2025-11-09 11:20:59.963 | INFO     | __main__:save_prepared_data:79 - FUNCTION START: save_prepared_data with file_name=customers_prepared.csv, dataframe shape=(201, 6)
+2025-11-09 11:20:59.967 | INFO     | __main__:save_prepared_data:84 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\customers_prepared.csv
+2025-11-09 11:20:59.967 | INFO     | __main__:main:222 - ==================================
+2025-11-09 11:20:59.967 | INFO     | __main__:main:223 - Original shape: (201, 6)
+2025-11-09 11:20:59.967 | INFO     | __main__:main:224 - Cleaned shape:  (201, 6)
+2025-11-09 11:20:59.967 | INFO     | __main__:main:225 - ==================================
+2025-11-09 11:20:59.968 | INFO     | __main__:main:226 - FINISHED prepare_customers_data.py
+2025-11-09 11:20:59.968 | INFO     | __main__:main:227 - ==================================
+2025-11-09 11:22:06.081 | INFO     | __main__:main:93 - ==================================
+2025-11-09 11:22:06.082 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 11:22:06.082 | INFO     | __main__:main:95 - ==================================
+2025-11-09 11:22:06.082 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:22:06.082 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:22:06.083 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:22:06.083 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:22:06.083 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 11:22:06.083 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 11:22:06.090 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 11:22:06.091 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 11:22:06.091 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 11:22:06.092 | INFO     | __main__:main:134 - ==================================
+2025-11-09 11:22:06.092 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 11:22:06.092 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 11:22:06.092 | INFO     | __main__:main:137 - ==================================
+2025-11-09 11:22:06.092 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 11:22:06.093 | INFO     | __main__:main:139 - ==================================
+2025-11-09 11:22:29.777 | INFO     | __main__:main:93 - ==================================
+2025-11-09 11:22:29.777 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 11:22:29.777 | INFO     | __main__:main:95 - ==================================
+2025-11-09 11:22:29.778 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:22:29.778 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:22:29.778 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:22:29.778 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:22:29.779 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 11:22:29.779 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 11:22:29.785 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 11:22:29.786 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 11:22:29.786 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 11:22:29.787 | INFO     | __main__:main:134 - ==================================
+2025-11-09 11:22:29.787 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 11:22:29.787 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 11:22:29.787 | INFO     | __main__:main:137 - ==================================
+2025-11-09 11:22:29.787 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 11:22:29.787 | INFO     | __main__:main:139 - ==================================
+2025-11-09 11:22:59.449 | INFO     | __main__:main:244 - ==================================
+2025-11-09 11:22:59.450 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 11:22:59.450 | INFO     | __main__:main:246 - ==================================
+2025-11-09 11:22:59.450 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:22:59.451 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:22:59.451 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:22:59.451 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:22:59.451 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 11:22:59.451 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 11:22:59.456 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 11:22:59.456 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 11:22:59.456 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 11:22:59.460 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 11:22:59.460 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 11:22:59.461 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 11:22:59.461 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 11:22:59.462 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 11:22:59.464 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 11:22:59.465 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 11:22:59.465 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 11:22:59.467 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 11:22:59.468 | INFO     | __main__:handle_missing_values:153 - Missing values by column after handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 11:22:59.469 | INFO     | __main__:handle_missing_values:154 - 100 records remaining after handling missing values.
+2025-11-09 11:22:59.469 | INFO     | __main__:remove_outliers:169 - FUNCTION START: remove_outliers with dataframe shape=(100, 6)
+2025-11-09 11:22:59.469 | INFO     | __main__:remove_outliers:188 - Removed 0 outlier rows
+2025-11-09 11:22:59.469 | INFO     | __main__:remove_outliers:189 - 100 records remaining after removing outliers.
+2025-11-09 11:22:59.469 | INFO     | __main__:validate_data:227 - FUNCTION START: validate_data with dataframe shape=(100, 6)
+2025-11-09 11:22:59.469 | INFO     | __main__:validate_data:236 - Data validation complete
+2025-11-09 11:22:59.469 | INFO     | __main__:standardize_formats:203 - FUNCTION START: standardize_formats with dataframe shape=(100, 6)
+2025-11-09 11:22:59.469 | INFO     | __main__:standardize_formats:213 - Completed standardizing formats
+2025-11-09 11:22:59.470 | INFO     | __main__:save_prepared_data:90 - FUNCTION START: save_prepared_data with file_name=products_prepared.csv, dataframe shape=(100, 6)
+2025-11-09 11:22:59.473 | INFO     | __main__:save_prepared_data:95 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\products_prepared.csv
+2025-11-09 11:22:59.474 | INFO     | __main__:main:298 - ==================================
+2025-11-09 11:22:59.474 | INFO     | __main__:main:299 - Original shape: (100, 6)
+2025-11-09 11:22:59.474 | INFO     | __main__:main:300 - Cleaned shape:  (100, 6)
+2025-11-09 11:22:59.475 | INFO     | __main__:main:301 - ==================================
+2025-11-09 11:22:59.475 | INFO     | __main__:main:302 - FINISHED prepare_products_data.py
+2025-11-09 11:22:59.475 | INFO     | __main__:main:303 - ==================================
+2025-11-09 11:23:30.724 | INFO     | __main__:main:177 - ==================================
+2025-11-09 11:23:30.724 | INFO     | __main__:main:178 - STARTING prepare_customers_data.py
+2025-11-09 11:23:30.724 | INFO     | __main__:main:179 - ==================================
+2025-11-09 11:23:30.724 | INFO     | __main__:main:181 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:23:30.725 | INFO     | __main__:main:182 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:23:30.725 | INFO     | __main__:main:183 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:23:30.725 | INFO     | __main__:main:184 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:23:30.725 | INFO     | __main__:read_raw_data:61 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-09 11:23:30.729 | INFO     | __main__:main:196 - Initial dataframe columns: CustomerID, Name, Region, JoinDate, NumberOfPurshases, ShoppingFrequency
+2025-11-09 11:23:30.729 | INFO     | __main__:main:197 - Initial dataframe shape: (201, 6)
+2025-11-09 11:23:30.729 | INFO     | __main__:remove_duplicates:99 - FUNCTION START: remove_duplicates with dataframe shape=(201, 6)
+2025-11-09 11:23:30.731 | INFO     | __main__:remove_duplicates:110 - Original dataframe shape: (201, 6)
+2025-11-09 11:23:30.732 | INFO     | __main__:remove_duplicates:111 - Deduped  dataframe shape: (201, 6)
+2025-11-09 11:23:30.732 | INFO     | __main__:handle_missing_values:126 - FUNCTION START: handle_missing_values with dataframe shape=(201, 6)
+2025-11-09 11:23:30.733 | INFO     | __main__:handle_missing_values:130 - Total missing values before handling: 0
+2025-11-09 11:23:30.734 | INFO     | __main__:handle_missing_values:139 - Total missing values after handling: 0
+2025-11-09 11:23:30.734 | INFO     | __main__:handle_missing_values:140 - 201 records remaining after handling missing values.
+2025-11-09 11:23:30.734 | INFO     | __main__:remove_outliers:155 - FUNCTION START: remove_outliers with dataframe shape=(201, 6)
+2025-11-09 11:23:30.734 | INFO     | __main__:remove_outliers:163 - Removed 0 outlier rows
+2025-11-09 11:23:30.735 | INFO     | __main__:remove_outliers:164 - 201 records remaining after removing outliers.
+2025-11-09 11:23:30.735 | INFO     | __main__:save_prepared_data:79 - FUNCTION START: save_prepared_data with file_name=customers_prepared.csv, dataframe shape=(201, 6)
+2025-11-09 11:23:30.739 | INFO     | __main__:save_prepared_data:84 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\customers_prepared.csv
+2025-11-09 11:23:30.740 | INFO     | __main__:main:222 - ==================================
+2025-11-09 11:23:30.740 | INFO     | __main__:main:223 - Original shape: (201, 6)
+2025-11-09 11:23:30.741 | INFO     | __main__:main:224 - Cleaned shape:  (201, 6)
+2025-11-09 11:23:30.741 | INFO     | __main__:main:225 - ==================================
+2025-11-09 11:23:30.741 | INFO     | __main__:main:226 - FINISHED prepare_customers_data.py
+2025-11-09 11:23:30.741 | INFO     | __main__:main:227 - ==================================
+2025-11-09 11:23:40.536 | INFO     | __main__:main:93 - ==================================
+2025-11-09 11:23:40.537 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 11:23:40.537 | INFO     | __main__:main:95 - ==================================
+2025-11-09 11:23:40.537 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 11:23:40.537 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 11:23:40.537 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 11:23:40.537 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 11:23:40.538 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 11:23:40.538 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 11:23:40.545 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 11:23:40.546 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 11:23:40.546 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 11:23:40.546 | INFO     | __main__:main:134 - ==================================
+2025-11-09 11:23:40.547 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 11:23:40.547 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 11:23:40.547 | INFO     | __main__:main:137 - ==================================
+2025-11-09 11:23:40.547 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 11:23:40.548 | INFO     | __main__:main:139 - ==================================
+2025-11-09 12:43:09.326 | INFO     | __main__:main:93 - ==================================
+2025-11-09 12:43:09.334 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 12:43:09.334 | INFO     | __main__:main:95 - ==================================
+2025-11-09 12:43:09.335 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 12:43:09.335 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 12:43:09.335 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 12:43:09.335 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 12:43:09.335 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 12:43:09.335 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 12:43:09.361 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 12:43:09.361 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 12:43:09.361 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 12:43:09.361 | INFO     | __main__:main:134 - ==================================
+2025-11-09 12:43:09.361 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 12:43:09.361 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 12:43:09.361 | INFO     | __main__:main:137 - ==================================
+2025-11-09 12:43:09.361 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 12:43:09.361 | INFO     | __main__:main:139 - ==================================
+2025-11-09 12:48:09.382 | INFO     | __main__:main:93 - ==================================
+2025-11-09 12:48:09.382 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 12:48:09.382 | INFO     | __main__:main:95 - ==================================
+2025-11-09 12:48:09.382 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 12:48:09.382 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 12:48:09.382 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 12:48:09.382 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 12:48:09.382 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 12:48:09.382 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 12:48:09.397 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 12:48:09.397 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 12:48:09.397 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 12:48:09.397 | INFO     | __main__:main:134 - ==================================
+2025-11-09 12:48:09.407 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 12:48:09.407 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 12:48:09.409 | INFO     | __main__:main:137 - ==================================
+2025-11-09 12:48:09.409 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 12:48:09.409 | INFO     | __main__:main:139 - ==================================
+2025-11-09 12:56:43.437 | INFO     | __main__:main:93 - ==================================
+2025-11-09 12:56:43.445 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 12:56:43.445 | INFO     | __main__:main:95 - ==================================
+2025-11-09 12:56:43.445 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 12:56:43.445 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 12:56:43.445 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 12:56:43.445 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 12:56:43.445 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 12:56:43.445 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 12:56:43.454 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 12:56:43.454 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 12:56:43.454 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 12:56:43.454 | INFO     | __main__:main:134 - ==================================
+2025-11-09 12:56:43.454 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 12:56:43.454 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 12:56:43.454 | INFO     | __main__:main:137 - ==================================
+2025-11-09 12:56:43.454 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 12:56:43.454 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:01:46.197 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:01:46.197 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:01:46.197 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:01:46.197 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:01:46.197 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:01:46.197 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:01:46.197 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:01:46.197 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:01:46.197 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:01:46.209 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:01:46.212 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:01:46.212 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 13:01:46.214 | INFO     | __main__:main:134 - ==================================
+2025-11-09 13:01:46.214 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 13:01:46.214 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 13:01:46.214 | INFO     | __main__:main:137 - ==================================
+2025-11-09 13:01:46.216 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 13:01:46.216 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:06:15.566 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:06:15.566 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:06:15.566 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:06:15.566 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:06:15.566 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:06:15.566 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:06:15.566 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:06:15.566 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:06:15.566 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:06:15.582 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:06:15.582 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:06:15.582 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 13:06:15.582 | INFO     | __main__:main:134 - ==================================
+2025-11-09 13:06:15.587 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 13:06:15.587 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 13:06:15.587 | INFO     | __main__:main:137 - ==================================
+2025-11-09 13:06:15.587 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 13:06:15.587 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:09:59.517 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:09:59.517 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:09:59.517 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:09:59.517 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:09:59.517 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:09:59.517 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:09:59.517 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:09:59.517 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:09:59.517 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:09:59.532 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:09:59.532 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:09:59.532 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 13:09:59.532 | INFO     | __main__:main:134 - ==================================
+2025-11-09 13:09:59.532 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 13:09:59.540 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 13:09:59.540 | INFO     | __main__:main:137 - ==================================
+2025-11-09 13:09:59.540 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 13:09:59.540 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:13:50.539 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:13:50.539 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:13:50.539 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:13:50.544 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:13:50.544 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:13:50.544 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:13:50.544 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:13:50.544 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:13:50.544 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:13:50.552 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:13:50.555 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:13:50.557 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 13:13:50.558 | INFO     | __main__:main:134 - ==================================
+2025-11-09 13:13:50.558 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 13:13:50.558 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 13:13:50.558 | INFO     | __main__:main:137 - ==================================
+2025-11-09 13:13:50.558 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 13:13:50.558 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:15:15.851 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:15:15.851 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:15:15.851 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:15:15.851 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:15:15.851 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:15:15.851 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:15:15.851 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:15:15.851 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:15:15.851 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:15:15.866 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:15:15.866 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:15:15.866 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 13:15:15.866 | INFO     | __main__:main:134 - ==================================
+2025-11-09 13:15:15.874 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 13:15:15.874 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 13:15:15.874 | INFO     | __main__:main:137 - ==================================
+2025-11-09 13:15:15.874 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 13:15:15.874 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:19:42.649 | INFO     | __main__:main:244 - ==================================
+2025-11-09 13:19:42.649 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 13:19:42.649 | INFO     | __main__:main:246 - ==================================
+2025-11-09 13:19:42.649 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:19:42.649 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:19:42.649 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:19:42.657 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:19:42.657 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 13:19:42.657 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 13:19:42.657 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 13:19:42.657 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 13:19:42.657 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 13:19:42.670 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 13:19:42.671 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 13:19:42.671 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 13:19:42.671 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 13:19:42.671 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 13:19:42.689 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 13:19:42.690 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 13:19:42.690 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 13:19:42.690 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 13:19:42.690 | INFO     | __main__:handle_missing_values:153 - Missing values by column after handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 13:19:42.690 | INFO     | __main__:handle_missing_values:154 - 100 records remaining after handling missing values.
+2025-11-09 13:19:42.698 | INFO     | __main__:remove_outliers:169 - FUNCTION START: remove_outliers with dataframe shape=(100, 6)
+2025-11-09 13:19:42.698 | INFO     | __main__:remove_outliers:188 - Removed 0 outlier rows
+2025-11-09 13:19:42.698 | INFO     | __main__:remove_outliers:189 - 100 records remaining after removing outliers.
+2025-11-09 13:19:42.698 | INFO     | __main__:validate_data:227 - FUNCTION START: validate_data with dataframe shape=(100, 6)
+2025-11-09 13:19:42.698 | INFO     | __main__:validate_data:236 - Data validation complete
+2025-11-09 13:19:42.698 | INFO     | __main__:standardize_formats:203 - FUNCTION START: standardize_formats with dataframe shape=(100, 6)
+2025-11-09 13:19:42.698 | INFO     | __main__:standardize_formats:213 - Completed standardizing formats
+2025-11-09 13:19:42.698 | INFO     | __main__:save_prepared_data:90 - FUNCTION START: save_prepared_data with file_name=products_prepared.csv, dataframe shape=(100, 6)
+2025-11-09 13:19:42.705 | INFO     | __main__:save_prepared_data:95 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\products_prepared.csv
+2025-11-09 13:19:42.705 | INFO     | __main__:main:298 - ==================================
+2025-11-09 13:19:42.705 | INFO     | __main__:main:299 - Original shape: (100, 6)
+2025-11-09 13:19:42.705 | INFO     | __main__:main:300 - Cleaned shape:  (100, 6)
+2025-11-09 13:19:42.705 | INFO     | __main__:main:301 - ==================================
+2025-11-09 13:19:42.705 | INFO     | __main__:main:302 - FINISHED prepare_products_data.py
+2025-11-09 13:19:42.705 | INFO     | __main__:main:303 - ==================================
+2025-11-09 13:25:14.161 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:25:14.161 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:25:14.161 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:25:14.163 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:25:14.163 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:25:14.163 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:25:14.163 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:25:14.163 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:25:14.165 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:25:14.171 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:25:14.171 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:25:14.171 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 13:25:14.171 | INFO     | __main__:main:134 - ==================================
+2025-11-09 13:25:14.171 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 13:25:14.178 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 13:25:14.178 | INFO     | __main__:main:137 - ==================================
+2025-11-09 13:25:14.178 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 13:25:14.178 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:26:02.674 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:26:02.674 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:26:02.674 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:26:02.682 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:26:02.682 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:26:02.682 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:26:02.682 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:26:02.682 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:26:02.682 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:26:02.690 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:26:02.690 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:26:02.690 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 13:26:02.699 | INFO     | __main__:main:134 - ==================================
+2025-11-09 13:26:02.699 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 13:26:02.699 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 13:26:02.699 | INFO     | __main__:main:137 - ==================================
+2025-11-09 13:26:02.699 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 13:26:02.699 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:26:43.693 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:26:43.708 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:26:43.708 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:26:43.708 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:26:43.708 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:26:43.709 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:26:43.709 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:26:43.709 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:26:43.709 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:26:43.709 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:26:43.709 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:26:43.709 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 13:26:43.720 | INFO     | __main__:main:134 - ==================================
+2025-11-09 13:26:43.720 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 13:26:43.720 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 13:26:43.722 | INFO     | __main__:main:137 - ==================================
+2025-11-09 13:26:43.722 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 13:26:43.722 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:30:21.539 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:30:21.539 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:30:21.539 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:30:21.539 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:30:21.539 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:30:21.539 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:30:21.539 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:30:21.539 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:30:21.539 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:30:21.558 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:30:21.558 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:30:21.559 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 13:30:21.559 | INFO     | __main__:main:134 - ==================================
+2025-11-09 13:30:21.559 | INFO     | __main__:main:135 - Original shape: (2001, 9)
+2025-11-09 13:30:21.559 | INFO     | __main__:main:136 - Cleaned shape:  (2001, 9)
+2025-11-09 13:30:21.559 | INFO     | __main__:main:137 - ==================================
+2025-11-09 13:30:21.559 | INFO     | __main__:main:138 - FINISHED prepare_sales_data.py
+2025-11-09 13:30:21.563 | INFO     | __main__:main:139 - ==================================
+2025-11-09 13:32:39.458 | INFO     | __main__:main:244 - ==================================
+2025-11-09 13:32:39.458 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 13:32:39.458 | INFO     | __main__:main:246 - ==================================
+2025-11-09 13:32:39.458 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:32:39.458 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:32:39.458 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:32:39.458 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:32:39.458 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 13:32:39.458 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 13:32:39.467 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 13:32:39.467 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 13:32:39.468 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 13:32:39.470 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 13:32:39.470 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 13:32:39.470 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 13:32:39.470 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 13:32:39.470 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 13:32:39.478 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 13:32:39.479 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 13:32:39.479 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 13:32:39.482 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 13:32:39.482 | INFO     | __main__:handle_missing_values:153 - Missing values by column after handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 13:32:39.482 | INFO     | __main__:handle_missing_values:154 - 100 records remaining after handling missing values.
+2025-11-09 13:32:39.482 | INFO     | __main__:remove_outliers:169 - FUNCTION START: remove_outliers with dataframe shape=(100, 6)
+2025-11-09 13:32:39.482 | INFO     | __main__:remove_outliers:188 - Removed 0 outlier rows
+2025-11-09 13:32:39.482 | INFO     | __main__:remove_outliers:189 - 100 records remaining after removing outliers.
+2025-11-09 13:32:39.482 | INFO     | __main__:validate_data:227 - FUNCTION START: validate_data with dataframe shape=(100, 6)
+2025-11-09 13:32:39.486 | INFO     | __main__:validate_data:236 - Data validation complete
+2025-11-09 13:32:39.486 | INFO     | __main__:standardize_formats:203 - FUNCTION START: standardize_formats with dataframe shape=(100, 6)
+2025-11-09 13:32:39.486 | INFO     | __main__:standardize_formats:213 - Completed standardizing formats
+2025-11-09 13:32:39.486 | INFO     | __main__:save_prepared_data:90 - FUNCTION START: save_prepared_data with file_name=products_prepared.csv, dataframe shape=(100, 6)
+2025-11-09 13:32:39.488 | INFO     | __main__:save_prepared_data:95 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\products_prepared.csv
+2025-11-09 13:32:39.488 | INFO     | __main__:main:298 - ==================================
+2025-11-09 13:32:39.493 | INFO     | __main__:main:299 - Original shape: (100, 6)
+2025-11-09 13:32:39.494 | INFO     | __main__:main:300 - Cleaned shape:  (100, 6)
+2025-11-09 13:32:39.496 | INFO     | __main__:main:301 - ==================================
+2025-11-09 13:32:39.496 | INFO     | __main__:main:302 - FINISHED prepare_products_data.py
+2025-11-09 13:32:39.496 | INFO     | __main__:main:303 - ==================================
+2025-11-09 13:34:43.239 | INFO     | __main__:main:244 - ==================================
+2025-11-09 13:34:43.239 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 13:34:43.239 | INFO     | __main__:main:246 - ==================================
+2025-11-09 13:34:43.239 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:34:43.239 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:34:43.239 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:34:43.239 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:34:43.239 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 13:34:43.239 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 13:34:43.247 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 13:34:43.247 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 13:34:43.247 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 13:34:43.247 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 13:34:43.256 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 13:34:43.256 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 13:34:43.256 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 13:34:43.256 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 13:34:43.256 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 13:34:43.256 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 13:34:43.256 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 13:34:43.264 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 13:34:43.272 | INFO     | __main__:handle_missing_values:153 - Missing values by column after handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 13:34:43.272 | INFO     | __main__:handle_missing_values:154 - 100 records remaining after handling missing values.
+2025-11-09 13:34:43.272 | INFO     | __main__:remove_outliers:169 - FUNCTION START: remove_outliers with dataframe shape=(100, 6)
+2025-11-09 13:34:43.272 | INFO     | __main__:remove_outliers:188 - Removed 0 outlier rows
+2025-11-09 13:34:43.272 | INFO     | __main__:remove_outliers:189 - 100 records remaining after removing outliers.
+2025-11-09 13:34:43.272 | INFO     | __main__:validate_data:227 - FUNCTION START: validate_data with dataframe shape=(100, 6)
+2025-11-09 13:34:43.272 | INFO     | __main__:validate_data:236 - Data validation complete
+2025-11-09 13:34:43.272 | INFO     | __main__:standardize_formats:203 - FUNCTION START: standardize_formats with dataframe shape=(100, 6)
+2025-11-09 13:34:43.272 | INFO     | __main__:standardize_formats:213 - Completed standardizing formats
+2025-11-09 13:34:43.272 | INFO     | __main__:save_prepared_data:90 - FUNCTION START: save_prepared_data with file_name=products_prepared.csv, dataframe shape=(100, 6)
+2025-11-09 13:34:43.286 | INFO     | __main__:save_prepared_data:95 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\products_prepared.csv
+2025-11-09 13:34:43.287 | INFO     | __main__:main:298 - ==================================
+2025-11-09 13:34:43.287 | INFO     | __main__:main:299 - Original shape: (100, 6)
+2025-11-09 13:34:43.287 | INFO     | __main__:main:300 - Cleaned shape:  (100, 6)
+2025-11-09 13:34:43.287 | INFO     | __main__:main:301 - ==================================
+2025-11-09 13:34:43.290 | INFO     | __main__:main:302 - FINISHED prepare_products_data.py
+2025-11-09 13:34:43.290 | INFO     | __main__:main:303 - ==================================
+2025-11-09 13:35:52.149 | INFO     | __main__:main:93 - ==================================
+2025-11-09 13:35:52.149 | INFO     | __main__:main:94 - STARTING prepare_sales_data.py
+2025-11-09 13:35:52.149 | INFO     | __main__:main:95 - ==================================
+2025-11-09 13:35:52.149 | INFO     | __main__:main:97 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 13:35:52.149 | INFO     | __main__:main:98 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 13:35:52.149 | INFO     | __main__:main:99 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 13:35:52.149 | INFO     | __main__:main:100 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 13:35:52.149 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 13:35:52.149 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 13:35:52.165 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 13:35:52.165 | INFO     | __main__:main:112 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 13:35:52.165 | INFO     | __main__:main:113 - Initial dataframe shape: (2001, 9)
+2025-11-09 16:43:05.352 | INFO     | __main__:main:180 - ==================================
+2025-11-09 16:43:05.352 | INFO     | __main__:main:181 - STARTING prepare_customers_data.py
+2025-11-09 16:43:05.352 | INFO     | __main__:main:182 - ==================================
+2025-11-09 16:43:05.352 | INFO     | __main__:main:184 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 16:43:05.352 | INFO     | __main__:main:185 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 16:43:05.352 | INFO     | __main__:main:186 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 16:43:05.352 | INFO     | __main__:main:187 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 16:43:05.352 | INFO     | __main__:read_raw_data:61 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-09 16:43:05.368 | INFO     | __main__:main:199 - Initial dataframe columns: CustomerID, Name, Region, JoinDate, NumberOfPurshases, ShoppingFrequency
+2025-11-09 16:43:05.369 | INFO     | __main__:main:200 - Initial dataframe shape: (201, 6)
+2025-11-09 16:43:05.369 | INFO     | __main__:remove_duplicates:99 - FUNCTION START: remove_duplicates with dataframe shape=(201, 6)
+2025-11-09 16:43:05.372 | INFO     | __main__:remove_duplicates:110 - Original dataframe shape: (201, 6)
+2025-11-09 16:43:05.372 | INFO     | __main__:remove_duplicates:111 - Deduped  dataframe shape: (201, 6)
+2025-11-09 16:43:05.373 | INFO     | __main__:handle_missing_values:126 - FUNCTION START: handle_missing_values with dataframe shape=(201, 6)
+2025-11-09 16:43:05.374 | INFO     | __main__:handle_missing_values:130 - Total missing values before handling: 0
+2025-11-09 16:43:05.390 | INFO     | __main__:handle_missing_values:142 - Total missing values after handling: 0
+2025-11-09 16:43:05.390 | INFO     | __main__:handle_missing_values:143 - 201 records remaining after handling missing values.
+2025-11-09 16:43:05.391 | INFO     | __main__:remove_outliers:158 - FUNCTION START: remove_outliers with dataframe shape=(201, 6)
+2025-11-09 16:43:05.391 | INFO     | __main__:remove_outliers:166 - Removed 0 outlier rows
+2025-11-09 16:43:05.391 | INFO     | __main__:remove_outliers:167 - 201 records remaining after removing outliers.
+2025-11-09 16:43:05.392 | INFO     | __main__:save_prepared_data:79 - FUNCTION START: save_prepared_data with file_name=customers_prepared.csv, dataframe shape=(201, 6)
+2025-11-09 16:43:05.398 | INFO     | __main__:save_prepared_data:84 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\customers_prepared.csv
+2025-11-09 16:43:05.398 | INFO     | __main__:main:225 - ==================================
+2025-11-09 16:43:05.398 | INFO     | __main__:main:226 - Original shape: (201, 6)
+2025-11-09 16:43:05.398 | INFO     | __main__:main:227 - Cleaned shape:  (201, 6)
+2025-11-09 16:43:05.400 | INFO     | __main__:main:228 - ==================================
+2025-11-09 16:43:05.400 | INFO     | __main__:main:229 - FINISHED prepare_customers_data.py
+2025-11-09 16:43:05.400 | INFO     | __main__:main:230 - ==================================
+2025-11-09 16:46:10.484 | INFO     | __main__:main:180 - ==================================
+2025-11-09 16:46:10.484 | INFO     | __main__:main:181 - STARTING prepare_customers_data.py
+2025-11-09 16:46:10.485 | INFO     | __main__:main:182 - ==================================
+2025-11-09 16:46:10.485 | INFO     | __main__:main:184 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 16:46:10.485 | INFO     | __main__:main:185 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 16:46:10.485 | INFO     | __main__:main:186 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 16:46:10.485 | INFO     | __main__:main:187 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 16:46:10.485 | INFO     | __main__:read_raw_data:61 - READING: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\customers_data.csv.
+2025-11-09 16:46:10.489 | INFO     | __main__:main:199 - Initial dataframe columns: CustomerID, Name, Region, JoinDate, NumberOfPurshases, ShoppingFrequency
+2025-11-09 16:46:10.490 | INFO     | __main__:main:200 - Initial dataframe shape: (201, 6)
+2025-11-09 16:46:10.491 | INFO     | __main__:main:209 - Formatted Region values to capitalize first letter.
+2025-11-09 16:46:10.492 | INFO     | __main__:main:209 - Formatted ShoppingFrequency values to capitalize first letter.
+2025-11-09 16:46:10.492 | INFO     | __main__:remove_duplicates:99 - FUNCTION START: remove_duplicates with dataframe shape=(201, 6)
+2025-11-09 16:46:10.494 | INFO     | __main__:remove_duplicates:110 - Original dataframe shape: (201, 6)
+2025-11-09 16:46:10.494 | INFO     | __main__:remove_duplicates:111 - Deduped  dataframe shape: (201, 6)
+2025-11-09 16:46:10.494 | INFO     | __main__:handle_missing_values:126 - FUNCTION START: handle_missing_values with dataframe shape=(201, 6)
+2025-11-09 16:46:10.495 | INFO     | __main__:handle_missing_values:130 - Total missing values before handling: 0
+2025-11-09 16:46:10.498 | INFO     | __main__:handle_missing_values:142 - Total missing values after handling: 0
+2025-11-09 16:46:10.498 | INFO     | __main__:handle_missing_values:143 - 201 records remaining after handling missing values.
+2025-11-09 16:46:10.498 | INFO     | __main__:remove_outliers:158 - FUNCTION START: remove_outliers with dataframe shape=(201, 6)
+2025-11-09 16:46:10.499 | INFO     | __main__:remove_outliers:166 - Removed 0 outlier rows
+2025-11-09 16:46:10.499 | INFO     | __main__:remove_outliers:167 - 201 records remaining after removing outliers.
+2025-11-09 16:46:10.500 | INFO     | __main__:save_prepared_data:79 - FUNCTION START: save_prepared_data with file_name=customers_prepared.csv, dataframe shape=(201, 6)
+2025-11-09 16:46:10.503 | INFO     | __main__:save_prepared_data:84 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\customers_prepared.csv
+2025-11-09 16:46:10.503 | INFO     | __main__:main:230 - ==================================
+2025-11-09 16:46:10.503 | INFO     | __main__:main:231 - Original shape: (201, 6)
+2025-11-09 16:46:10.503 | INFO     | __main__:main:232 - Cleaned shape:  (201, 6)
+2025-11-09 16:46:10.504 | INFO     | __main__:main:233 - ==================================
+2025-11-09 16:46:10.504 | INFO     | __main__:main:234 - FINISHED prepare_customers_data.py
+2025-11-09 16:46:10.504 | INFO     | __main__:main:235 - ==================================
+2025-11-09 16:58:14.322 | INFO     | __main__:main:245 - ==================================
+2025-11-09 16:58:14.322 | INFO     | __main__:main:246 - STARTING prepare_products_data.py
+2025-11-09 16:58:14.322 | INFO     | __main__:main:247 - ==================================
+2025-11-09 16:58:14.322 | INFO     | __main__:main:249 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 16:58:14.322 | INFO     | __main__:main:250 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 16:58:14.322 | INFO     | __main__:main:251 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 16:58:14.322 | INFO     | __main__:main:252 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 16:58:14.322 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 16:58:14.322 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 16:58:14.322 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 16:58:14.322 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 16:58:14.322 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 16:58:14.340 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 16:58:14.340 | INFO     | __main__:main:267 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 16:58:14.341 | INFO     | __main__:main:268 - Initial dataframe shape: (100, 6)
+2025-11-09 16:58:14.341 | INFO     | __main__:main:279 - Cleaned column names: ProductID -> Productid, ProductName -> Productname, UnitPrice -> Unitprice, StockQuantity -> Stockquantity
+2025-11-09 16:58:14.342 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 16:59:35.823 | INFO     | __main__:main:245 - ==================================
+2025-11-09 16:59:35.823 | INFO     | __main__:main:246 - STARTING prepare_products_data.py
+2025-11-09 16:59:35.823 | INFO     | __main__:main:247 - ==================================
+2025-11-09 16:59:35.823 | INFO     | __main__:main:249 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 16:59:35.823 | INFO     | __main__:main:250 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 16:59:35.823 | INFO     | __main__:main:251 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 16:59:35.823 | INFO     | __main__:main:252 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 16:59:35.838 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 16:59:35.838 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 16:59:35.840 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 16:59:35.840 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 16:59:35.840 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 16:59:35.846 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 16:59:35.846 | INFO     | __main__:main:267 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 16:59:35.846 | INFO     | __main__:main:268 - Initial dataframe shape: (100, 6)
+2025-11-09 16:59:35.847 | INFO     | __main__:main:279 - Cleaned column names: ProductID -> Productid, ProductName -> Productname, UnitPrice -> Unitprice, StockQuantity -> Stockquantity
+2025-11-09 16:59:35.847 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:00:57.145 | INFO     | __main__:main:245 - ==================================
+2025-11-09 17:00:57.146 | INFO     | __main__:main:246 - STARTING prepare_products_data.py
+2025-11-09 17:00:57.146 | INFO     | __main__:main:247 - ==================================
+2025-11-09 17:00:57.146 | INFO     | __main__:main:249 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:00:57.146 | INFO     | __main__:main:250 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:00:57.147 | INFO     | __main__:main:251 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:00:57.147 | INFO     | __main__:main:252 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:00:57.147 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:00:57.147 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:00:57.151 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:00:57.151 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:00:57.151 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:00:57.155 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:00:57.156 | INFO     | __main__:main:267 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 17:00:57.156 | INFO     | __main__:main:268 - Initial dataframe shape: (100, 6)
+2025-11-09 17:00:57.157 | INFO     | __main__:main:279 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 17:00:57.158 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:00:57.160 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 17:00:57.160 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 17:00:57.160 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 17:00:57.163 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:01:34.562 | INFO     | __main__:main:244 - ==================================
+2025-11-09 17:01:34.564 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 17:01:34.564 | INFO     | __main__:main:246 - ==================================
+2025-11-09 17:01:34.564 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:01:34.564 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:01:34.564 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:01:34.564 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:01:34.564 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:01:34.564 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:01:34.568 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:01:34.569 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:01:34.569 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:01:34.572 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:01:34.573 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 17:01:34.574 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 17:01:34.576 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 17:01:34.576 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:01:34.578 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 17:01:34.579 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 17:01:34.579 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 17:01:34.580 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:01:44.829 | INFO     | __main__:main:244 - ==================================
+2025-11-09 17:01:44.829 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 17:01:44.829 | INFO     | __main__:main:246 - ==================================
+2025-11-09 17:01:44.829 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:01:44.829 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:01:44.829 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:01:44.829 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:01:44.829 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:01:44.829 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:01:44.829 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:01:44.829 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:01:44.829 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:01:44.843 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:01:44.844 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 17:01:44.844 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 17:01:44.845 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 17:01:44.847 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:01:44.850 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 17:01:44.850 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 17:01:44.851 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 17:01:44.852 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:02:31.962 | INFO     | __main__:main:244 - ==================================
+2025-11-09 17:02:31.962 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 17:02:31.962 | INFO     | __main__:main:246 - ==================================
+2025-11-09 17:02:31.962 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:02:31.962 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:02:31.962 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:02:31.962 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:02:31.962 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:02:31.962 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:02:31.962 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:02:31.962 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:02:31.962 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:02:31.962 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:02:31.962 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 17:02:31.962 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 17:02:31.962 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 17:02:31.962 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:02:31.972 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 17:02:31.973 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 17:02:31.973 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 17:02:31.974 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:03:49.030 | INFO     | __main__:main:244 - ==================================
+2025-11-09 17:03:49.031 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 17:03:49.031 | INFO     | __main__:main:246 - ==================================
+2025-11-09 17:03:49.031 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:03:49.031 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:03:49.031 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:03:49.031 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:03:49.031 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:03:49.031 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:03:49.035 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:03:49.035 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:03:49.035 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:03:49.038 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:03:49.039 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 17:03:49.039 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 17:03:49.040 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 17:03:49.040 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:03:49.041 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 17:03:49.041 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 17:03:49.042 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 17:03:49.042 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:03:49.052 | INFO     | __main__:handle_missing_values:153 - Missing values by column after handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:03:49.052 | INFO     | __main__:handle_missing_values:154 - 100 records remaining after handling missing values.
+2025-11-09 17:03:49.052 | INFO     | __main__:remove_outliers:169 - FUNCTION START: remove_outliers with dataframe shape=(100, 6)
+2025-11-09 17:03:49.053 | INFO     | __main__:remove_outliers:188 - Removed 0 outlier rows
+2025-11-09 17:03:49.053 | INFO     | __main__:remove_outliers:189 - 100 records remaining after removing outliers.
+2025-11-09 17:03:49.053 | INFO     | __main__:validate_data:227 - FUNCTION START: validate_data with dataframe shape=(100, 6)
+2025-11-09 17:03:49.054 | INFO     | __main__:validate_data:236 - Data validation complete
+2025-11-09 17:03:49.054 | INFO     | __main__:standardize_formats:203 - FUNCTION START: standardize_formats with dataframe shape=(100, 6)
+2025-11-09 17:03:49.054 | INFO     | __main__:standardize_formats:213 - Completed standardizing formats
+2025-11-09 17:03:49.054 | INFO     | __main__:save_prepared_data:90 - FUNCTION START: save_prepared_data with file_name=products_prepared.csv, dataframe shape=(100, 6)
+2025-11-09 17:04:07.678 | INFO     | __main__:main:244 - ==================================
+2025-11-09 17:04:07.678 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 17:04:07.679 | INFO     | __main__:main:246 - ==================================
+2025-11-09 17:04:07.679 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:04:07.679 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:04:07.679 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:04:07.679 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:04:07.679 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:04:07.679 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:04:07.682 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:04:07.682 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:04:07.682 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:04:07.689 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:04:07.690 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 17:04:07.690 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 17:04:07.691 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 17:04:07.691 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:04:07.695 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 17:04:07.695 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 17:04:07.695 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 17:04:07.698 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:04:07.701 | INFO     | __main__:handle_missing_values:153 - Missing values by column after handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:04:07.702 | INFO     | __main__:handle_missing_values:154 - 100 records remaining after handling missing values.
+2025-11-09 17:04:07.703 | INFO     | __main__:remove_outliers:169 - FUNCTION START: remove_outliers with dataframe shape=(100, 6)
+2025-11-09 17:04:07.703 | INFO     | __main__:remove_outliers:188 - Removed 0 outlier rows
+2025-11-09 17:04:07.703 | INFO     | __main__:remove_outliers:189 - 100 records remaining after removing outliers.
+2025-11-09 17:04:07.703 | INFO     | __main__:validate_data:227 - FUNCTION START: validate_data with dataframe shape=(100, 6)
+2025-11-09 17:04:07.705 | INFO     | __main__:validate_data:236 - Data validation complete
+2025-11-09 17:04:07.705 | INFO     | __main__:standardize_formats:203 - FUNCTION START: standardize_formats with dataframe shape=(100, 6)
+2025-11-09 17:04:07.705 | INFO     | __main__:standardize_formats:213 - Completed standardizing formats
+2025-11-09 17:04:07.705 | INFO     | __main__:save_prepared_data:90 - FUNCTION START: save_prepared_data with file_name=products_prepared.csv, dataframe shape=(100, 6)
+2025-11-09 17:05:59.057 | INFO     | __main__:main:244 - ==================================
+2025-11-09 17:05:59.057 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 17:05:59.057 | INFO     | __main__:main:246 - ==================================
+2025-11-09 17:05:59.057 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:05:59.057 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:05:59.057 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:05:59.057 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:05:59.057 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:05:59.057 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:05:59.057 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:05:59.057 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:05:59.057 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:05:59.068 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:05:59.068 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 17:05:59.068 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 17:05:59.069 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 17:05:59.069 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:05:59.070 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 17:05:59.070 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 17:05:59.070 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 17:05:59.074 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:05:59.078 | INFO     | __main__:handle_missing_values:153 - Missing values by column after handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:05:59.078 | INFO     | __main__:handle_missing_values:154 - 100 records remaining after handling missing values.
+2025-11-09 17:05:59.079 | INFO     | __main__:remove_outliers:169 - FUNCTION START: remove_outliers with dataframe shape=(100, 6)
+2025-11-09 17:05:59.079 | INFO     | __main__:remove_outliers:188 - Removed 0 outlier rows
+2025-11-09 17:05:59.080 | INFO     | __main__:remove_outliers:189 - 100 records remaining after removing outliers.
+2025-11-09 17:05:59.080 | INFO     | __main__:validate_data:227 - FUNCTION START: validate_data with dataframe shape=(100, 6)
+2025-11-09 17:05:59.080 | INFO     | __main__:validate_data:236 - Data validation complete
+2025-11-09 17:05:59.080 | INFO     | __main__:standardize_formats:203 - FUNCTION START: standardize_formats with dataframe shape=(100, 6)
+2025-11-09 17:05:59.081 | INFO     | __main__:standardize_formats:213 - Completed standardizing formats
+2025-11-09 17:05:59.081 | INFO     | __main__:save_prepared_data:90 - FUNCTION START: save_prepared_data with file_name=products_prepared.csv, dataframe shape=(100, 6)
+2025-11-09 17:05:59.086 | INFO     | __main__:save_prepared_data:95 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\products_prepared.csv
+2025-11-09 17:05:59.086 | INFO     | __main__:main:298 - ==================================
+2025-11-09 17:05:59.088 | INFO     | __main__:main:299 - Original shape: (100, 6)
+2025-11-09 17:05:59.088 | INFO     | __main__:main:300 - Cleaned shape:  (100, 6)
+2025-11-09 17:05:59.088 | INFO     | __main__:main:301 - ==================================
+2025-11-09 17:05:59.088 | INFO     | __main__:main:302 - FINISHED prepare_products_data.py
+2025-11-09 17:05:59.088 | INFO     | __main__:main:303 - ==================================
+2025-11-09 17:07:11.332 | INFO     | __main__:main:244 - ==================================
+2025-11-09 17:07:11.332 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 17:07:11.332 | INFO     | __main__:main:246 - ==================================
+2025-11-09 17:07:11.332 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:07:11.332 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:07:11.347 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:07:11.347 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:07:11.347 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:07:11.348 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:07:11.352 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:07:11.353 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:07:11.353 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:07:11.356 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:07:11.356 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 17:07:11.356 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 17:07:11.357 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> Productid, ProductName -> Productname, UnitPrice -> Unitprice, StockQuantity -> Stockquantity
+2025-11-09 17:07:11.357 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:07:25.686 | INFO     | __main__:main:244 - ==================================
+2025-11-09 17:07:25.686 | INFO     | __main__:main:245 - STARTING prepare_products_data.py
+2025-11-09 17:07:25.686 | INFO     | __main__:main:246 - ==================================
+2025-11-09 17:07:25.686 | INFO     | __main__:main:248 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:07:25.686 | INFO     | __main__:main:249 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:07:25.686 | INFO     | __main__:main:250 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:07:25.686 | INFO     | __main__:main:251 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:07:25.686 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:07:25.686 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:07:25.705 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:07:25.705 | INFO     | __main__:read_raw_data:67 - FUNCTION START: read_raw_data with file_name=products_data.csv
+2025-11-09 17:07:25.705 | INFO     | __main__:read_raw_data:69 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\products_data.csv
+2025-11-09 17:07:25.710 | INFO     | __main__:read_raw_data:71 - Loaded dataframe with 100 rows and 6 columns
+2025-11-09 17:07:25.710 | INFO     | __main__:main:266 - Initial dataframe columns: ProductID, ProductName, Category, UnitPrice, StockQuantity, Supplier
+2025-11-09 17:07:25.710 | INFO     | __main__:main:267 - Initial dataframe shape: (100, 6)
+2025-11-09 17:07:25.711 | INFO     | __main__:main:278 - Cleaned column names: ProductID -> productid, ProductName -> productname, Category -> category, UnitPrice -> unitprice, StockQuantity -> stockquantity, Supplier -> supplier
+2025-11-09 17:07:25.711 | INFO     | __main__:remove_duplicates:108 - FUNCTION START: remove_duplicates with dataframe shape=(100, 6)
+2025-11-09 17:07:25.712 | INFO     | __main__:remove_duplicates:118 - Removed 0 duplicate rows
+2025-11-09 17:07:25.713 | INFO     | __main__:remove_duplicates:119 - 100 records remaining after removing duplicates.
+2025-11-09 17:07:25.713 | INFO     | __main__:handle_missing_values:134 - FUNCTION START: handle_missing_values with dataframe shape=(100, 6)
+2025-11-09 17:07:25.714 | INFO     | __main__:handle_missing_values:139 - Missing values by column before handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:07:25.714 | INFO     | __main__:handle_missing_values:153 - Missing values by column after handling:
+productid        0
+productname      0
+category         0
+unitprice        0
+stockquantity    0
+supplier         0
+dtype: int64
+2025-11-09 17:07:25.714 | INFO     | __main__:handle_missing_values:154 - 100 records remaining after handling missing values.
+2025-11-09 17:07:25.719 | INFO     | __main__:remove_outliers:169 - FUNCTION START: remove_outliers with dataframe shape=(100, 6)
+2025-11-09 17:07:25.719 | INFO     | __main__:remove_outliers:188 - Removed 0 outlier rows
+2025-11-09 17:07:25.719 | INFO     | __main__:remove_outliers:189 - 100 records remaining after removing outliers.
+2025-11-09 17:07:25.719 | INFO     | __main__:validate_data:227 - FUNCTION START: validate_data with dataframe shape=(100, 6)
+2025-11-09 17:07:25.720 | INFO     | __main__:validate_data:236 - Data validation complete
+2025-11-09 17:07:25.720 | INFO     | __main__:standardize_formats:203 - FUNCTION START: standardize_formats with dataframe shape=(100, 6)
+2025-11-09 17:07:25.720 | INFO     | __main__:standardize_formats:213 - Completed standardizing formats
+2025-11-09 17:07:25.720 | INFO     | __main__:save_prepared_data:90 - FUNCTION START: save_prepared_data with file_name=products_prepared.csv, dataframe shape=(100, 6)
+2025-11-09 17:07:25.723 | INFO     | __main__:save_prepared_data:95 - Data saved to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\products_prepared.csv
+2025-11-09 17:07:25.723 | INFO     | __main__:main:298 - ==================================
+2025-11-09 17:07:25.723 | INFO     | __main__:main:299 - Original shape: (100, 6)
+2025-11-09 17:07:25.723 | INFO     | __main__:main:300 - Cleaned shape:  (100, 6)
+2025-11-09 17:07:25.724 | INFO     | __main__:main:301 - ==================================
+2025-11-09 17:07:25.724 | INFO     | __main__:main:302 - FINISHED prepare_products_data.py
+2025-11-09 17:07:25.724 | INFO     | __main__:main:303 - ==================================
+2025-11-09 17:15:27.971 | INFO     | __main__:main:309 - ==================================
+2025-11-09 17:15:27.971 | INFO     | __main__:main:310 - STARTING prepare_sales_data.py
+2025-11-09 17:15:27.971 | INFO     | __main__:main:311 - ==================================
+2025-11-09 17:15:27.971 | INFO     | __main__:main:313 - Root         : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src
+2025-11-09 17:15:27.971 | INFO     | __main__:main:314 - data/raw     : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw
+2025-11-09 17:15:27.971 | INFO     | __main__:main:315 - data/prepared: C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared
+2025-11-09 17:15:27.971 | INFO     | __main__:main:316 - scripts      : C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\analytics_project
+2025-11-09 17:15:27.971 | INFO     | __main__:read_raw_data:69 - FUNCTION START: read_raw_data with file_name=sales_data.csv
+2025-11-09 17:15:27.971 | INFO     | __main__:read_raw_data:71 - Reading data from C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\raw\sales_data.csv
+2025-11-09 17:15:27.979 | INFO     | __main__:read_raw_data:73 - Loaded dataframe with 2001 rows and 9 columns
+2025-11-09 17:15:27.979 | INFO     | __main__:main:328 - Initial dataframe columns: TransactionID, SaleDate, CustomerID, ProductID, StoreID, CampaignID, SaleAmount, Shipping, State
+2025-11-09 17:15:27.979 | INFO     | __main__:main:329 - Initial dataframe shape: (2001, 9)
+2025-11-09 17:15:27.979 | INFO     | __main__:clean_column_names:94 - FUNCTION START: clean_column_names
+2025-11-09 17:15:27.982 | INFO     | __main__:clean_column_names:103 - Cleaned column names: TransactionID -> Transactionid, SaleDate -> Saledate, CustomerID -> Customerid, ProductID -> Productid, StoreID -> Storeid, CampaignID -> Campaignid, SaleAmount -> Saleamount
+2025-11-09 17:15:27.983 | INFO     | __main__:remove_duplicates:118 - FUNCTION START: remove_duplicates with dataframe shape=(2001, 9)
+2025-11-09 17:15:27.985 | INFO     | __main__:remove_duplicates:128 - Removed 1 duplicate rows
+2025-11-09 17:15:27.986 | INFO     | __main__:remove_duplicates:129 - 2000 records remaining after removing duplicates.
+2025-11-09 17:15:27.987 | INFO     | __main__:handle_missing_values:144 - FUNCTION START: handle_missing_values with dataframe shape=(2000, 9)
+2025-11-09 17:15:27.990 | INFO     | __main__:handle_missing_values:149 - Missing values before handling:
+Campaignid     1
+Shipping       8
+State         14
+dtype: int64
+2025-11-09 17:15:27.999 | INFO     | __main__:handle_missing_values:178 - Filled missing Shipping values with median: 52.675
+2025-11-09 17:15:27.999 | INFO     | __main__:handle_missing_values:181 - Removed 1 rows due to missing critical values
+2025-11-09 17:15:28.000 | INFO     | __main__:handle_missing_values:182 - 1999 records remaining after handling missing values.
+2025-11-09 17:15:28.000 | INFO     | __main__:remove_outliers:197 - FUNCTION START: remove_outliers with dataframe shape=(1999, 9)
+2025-11-09 17:15:28.004 | INFO     | __main__:remove_outliers:217 - Removed 66 SaleAmount outliers (IQR method)
+2025-11-09 17:15:28.004 | INFO     | __main__:remove_outliers:218 - SaleAmount range: [-1648.09, 3409.59]
+2025-11-09 17:15:28.006 | INFO     | __main__:remove_outliers:230 - Removed 0 Shipping outliers (IQR method)
+2025-11-09 17:15:28.006 | INFO     | __main__:remove_outliers:231 - Shipping range: [-43.99, 149.60]
+2025-11-09 17:15:28.006 | INFO     | __main__:remove_outliers:234 - Total removed 79 outlier rows
+2025-11-09 17:15:28.007 | INFO     | __main__:remove_outliers:235 - 1920 records remaining after removing outliers.
+2025-11-09 17:15:28.007 | INFO     | __main__:ensure_consistent_formatting:250 - FUNCTION START: ensure_consistent_formatting
+2025-11-09 17:15:28.011 | INFO     | __main__:ensure_consistent_formatting:255 - Converted Saledate to datetime format
+2025-11-09 17:15:28.021 | INFO     | __main__:ensure_consistent_formatting:280 - Ensured consistent formatting across all columns
+2025-11-09 17:15:28.021 | INFO     | __main__:save_prepared_data:293 - FUNCTION START: save_prepared_data with file_name=sales_prepared.csv
+2025-11-09 17:15:28.032 | INFO     | __main__:save_prepared_data:296 - Saved prepared data to C:\Users\mhajiyev\projects\smart-store-mahammadhajiyev\src\data\prepared\sales_prepared.csv
+2025-11-09 17:15:28.032 | INFO     | __main__:save_prepared_data:297 - Final dataframe shape: (1920, 9)
+2025-11-09 17:15:28.032 | INFO     | __main__:main:349 - ==================================
+2025-11-09 17:15:28.032 | INFO     | __main__:main:350 - Original shape: (2001, 9)
+2025-11-09 17:15:28.032 | INFO     | __main__:main:351 - Cleaned shape:  (1920, 9)
+2025-11-09 17:15:28.032 | INFO     | __main__:main:352 - Data reduction: 81 rows removed (4.05%)
+2025-11-09 17:15:28.032 | INFO     | __main__:main:355 - ==================================
+2025-11-09 17:15:28.032 | INFO     | __main__:main:356 - FINISHED prepare_sales_data.py
+2025-11-09 17:15:28.032 | INFO     | __main__:main:357 - ==================================
