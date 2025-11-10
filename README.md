@@ -149,3 +149,39 @@ Before starting a new session, remember to do a `git pull` and keep your tools u
 Each time forward progress is made, remember to git add-commit-push.
 
 
+---
+
+## ⚡ Quick Rundown of the Data Cleaning Process
+
+Here’s a high-level view of how the Smart Store data pipeline works:
+
+1. **Load Raw Data**
+   - All CSV files are read from `data/raw/`.
+   - Example files: `sales_data.csv`, `customers_data.csv`, `products_data.csv`.
+
+2. **Initialize DataScrubber**
+   - Each dataset is wrapped in a `DataScrubber` instance.
+   - Responsible for all cleaning operations.
+
+3. **Data Cleaning Steps**
+   - **Remove duplicates** – ensures no repeated rows.
+   - **Normalize strings** – trims whitespace and converts to uppercase.
+   - **Convert types** – numeric fields coerced, dates parsed.
+   - **Handle special values** – e.g., `'free'` → `0`, `'?'` → `NaN`.
+   - **Fill missing values** – medians or defaults applied.
+   - **Drop critical missing rows** – removes rows missing essential keys (like `TransactionID`, `CustomerID`).
+   - **Remove outliers** – using IQR or logical limits (e.g., negative prices or quantities).
+
+4. **Post-Processing**
+   - Sort datasets by primary key (`TransactionID`, `CustomerID`, `ProductID`).
+   - Log shape and number of rows removed.
+   - Format final output consistently.
+
+5. **Save Cleaned Data**
+   - Cleaned CSVs are written to `data/prepared/`.
+   - Filenames are automatically normalized and suffixed with `_cleanedwithScrubber`.
+
+6. **Logging**
+   - All steps are logged using `utils_logger` for transparency and debugging.
+
+---
